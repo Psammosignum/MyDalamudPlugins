@@ -7,5 +7,5 @@ My dalamud plugins
 add
 
 ```text
-https://raw.githubusercontent.com/Psammosignum/MyDalamudPlugins/main/pluginmaster.json
+https://raw.githubusercontent.com/Psammosignum/MyDalamudPlugins/master/pluginmaster.json
 ```
